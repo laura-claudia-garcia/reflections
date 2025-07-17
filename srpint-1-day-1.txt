@@ -1,0 +1,18 @@
+How would you describe the command line in plain English in a couple of sentences?
+- the comand line is a tool to navigate the computer folders, create new folders (also called directories), create, open and delete files, as well as synch created folders and files to github (the cloud where the coding file will be sent to).
+
+Can you think of an analogy for it?
+- The terminal is like the file navigator but allows for faster actions.
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+- I did because I had used git before, so this was more of a refresher.
+
+Name five commands you used and what they do.
+- ls lists the files and directories in the current directory
+- ls -al lists all the files including the hidden ones
+- mkdir creates a new directory
+- cd allows you to change directory
+- touch creates a file
+
+Did you learn anything unexpected?
+I learnt I could open folders and files directly from the terminal. I think that's pretty cool.
