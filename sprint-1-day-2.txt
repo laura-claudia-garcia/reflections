@@ -19,3 +19,6 @@ How would you rate your understanding of everything you just did on a scale of 1
 
 What part is the most confusing still?
 - I am not confused at all.
+
+How would you describe stage and commit to your non-tech-savvy friend?
+- stage is when there has been a change on a file. Commit is like a notebook entry every time you save the file, so you and other people can know what you updated, an revert to something before if something doesn't work in the latest version.
