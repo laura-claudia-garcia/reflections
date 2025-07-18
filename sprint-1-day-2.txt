@@ -10,3 +10,12 @@ Do you think you would still remember the difference a week from now if you didn
 
 Did you stick to the timebox suggestions? If not, why not?
 - Yes, it took me less time because I have already used both tools.
+
+What are the two different ways of creating a new git repository?
+- You can create a repository on your machine by using git init and then later connecting it to a github repository, or you can create a repository on github and cloning it onto your machine with git clone.
+
+How would you rate your understanding of everything you just did on a scale of 1-10?
+- 10 I have a very good understanding of the basics explained in this lesson.
+
+What part is the most confusing still?
+- I am not confused at all.
