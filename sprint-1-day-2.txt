@@ -1,0 +1,12 @@
+What's the difference between Git and GitHub?
+- Git is a tool (Version control software) and GitHub is a Web service similar to Facebook but for developer. GitHub is the front end to visualise repositories, files, commits. It can also be used to create repositories, files, commits etc. While Git is used to create and edit directories, and files which have been copied to your computer. 
+
+Can you think of an analogy to describe them?
+- Git is like a camera, it is a tool to do something
+- GitHub is like instagram, you can also take photos with it but it mainly is used to store photos in chronological order.
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+- Yes I would remember the difference because I have used both tools in the past.
+
+Did you stick to the timebox suggestions? If not, why not?
+- Yes, it took me less time because I have already used both tools.
