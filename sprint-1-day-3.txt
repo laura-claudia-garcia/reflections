@@ -1,0 +1,11 @@
+What is main?
+- It is the main branch with the working code. To work on feature, people should branch out and only merge once the code has been tested and fully works.
+
+Why create a branch?
+- A branch allows users to make a copy of the content on the main branch and work on new features without risking to break the working code.
+
+What commands do you use to interact with branches? 
+- git branch tells you which branch you are in, git branch [branch-name] create a new branch, git checkout [branch-name] switches to another branch. 
+
+How do you create them and switch them?
+- you can both create and switch a branch with git checkout -b [branch-name].
